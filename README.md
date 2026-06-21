@@ -63,7 +63,7 @@ RSS Feed
 * [Instagram Prompt](prompts/instagram-prompt.md)
 * [LinkedIn Prompt](prompts/linkedin-prompt.md)
 * [Image Generation Prompt](prompts/image-generation-prompt.md)
-
+* - [Case Study](case-study.md)
 
 ## What Problem This Solves
 
