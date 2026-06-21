@@ -97,19 +97,19 @@ The LinkedIn branch creates a professional post with a strong hook, useful insig
 
 ### Make.com Scenario Overview
 
-![Make.com Scenario Overview](screenshots/scenario-overview.png)
+![Make.com Scenario Overview](./scenario-overview.png)
 
 ### Facebook Output
 
-![Facebook Output](screenshots/facebook-output.png)
+![Facebook Output](./facebook-output.png)
 
 ### Instagram Output
 
-![Instagram Output](screenshots/instagram-output.png)
+![Instagram Output](./instagram-output.png)
 
 ### LinkedIn Output
 
-![LinkedIn Output](screenshots/linkedin-output.png)
+![LinkedIn Output](./linkedin-output.png)
 ```
 
 ---
