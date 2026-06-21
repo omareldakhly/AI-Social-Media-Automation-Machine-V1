@@ -198,5 +198,5 @@ YOUR_LINKEDIN_ACCOUNT
 
 ## Author
 
-Built by Omar Mohamed as part of an AI Automation portfolio focused on Make.com, OpenAI, no-code automation, and content automation systems.
+Built by Omar eldakhly as part of an AI Automation portfolio focused on Make.com, OpenAI, no-code automation, and content automation systems.
 
