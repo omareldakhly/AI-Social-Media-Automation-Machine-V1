@@ -56,7 +56,14 @@ RSS Feed
 * Uses a Make.com Router to separate each platform flow.
 * Keeps each platform prompt customized for the correct content style.
 
----
+---## Project Files
+
+* [Make.com Blueprint](make-blueprint/make-scenario-blueprint.sanitized.json)
+* [Facebook Prompt](prompts/facebook-prompt.md)
+* [Instagram Prompt](prompts/instagram-prompt.md)
+* [LinkedIn Prompt](prompts/linkedin-prompt.md)
+* [Image Generation Prompt](prompts/image-generation-prompt.md)
+
 
 ## What Problem This Solves
 
