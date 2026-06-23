@@ -55,6 +55,12 @@ RSS Feed
 * Publishes content automatically to multiple platforms.
 * Uses a Make.com Router to separate each platform flow.
 * Keeps each platform prompt customized for the correct content style.
+* - Prevents duplicate publishing using Make Data Store.
+* - Logs successful publishing events into Google Sheets.
+* - Sends Telegram success notifications after publishing.
+* - Handles publishing errors using Make error handlers.
+* - Logs failed operations into Google Sheets.
+* - Sends Telegram error alerts when a publishing step fails.
 
 ---## Project Files
 
