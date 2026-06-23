@@ -156,4 +156,16 @@ This project helped me practice:
 * Cloudinary image hosting
 * Social media automation
 * Portfolio project documentation
+  ---
+
+* ## Version 1.1 Improvements
+After the first working version, I improved the workflow by adding:
+- Google Sheets publishing logs
+- Telegram success notifications
+- Error handling routes
+- Google Sheets error logs
+- Telegram error alerts
+- Duplicate prevention using Make Data Store
+
+This made the workflow more reliable and closer to a production-ready automation system.
 
