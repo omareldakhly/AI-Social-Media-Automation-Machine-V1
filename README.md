@@ -110,7 +110,7 @@ The LinkedIn branch creates a professional post with a strong hook, useful insig
 
 ### Make.com Scenario Overview
 
-![Make.com Scenario Overview](./scenario-overview.png)
+![Make.com Scenario Overview](./scenario-overview.png?v=2)
 
 ### Facebook Output
 
