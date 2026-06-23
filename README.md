@@ -145,8 +145,8 @@ The automation:
 
 ## Project Status
 
-Version: V1
-Status: Completed and tested
+Version: V1.1
+Completed and tested with logging, notifications, error handling, and duplicate prevention.
 
 Completed features:
 
